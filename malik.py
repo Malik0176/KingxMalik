@@ -144,8 +144,9 @@ def login():
                 jalan(' \033[1;92m     Notice:Ñ‚Ð¨Ð® \033[1;97mwear mask on your mouth every time ' )
                 jalan(' \033[1;92m     Notice:Ñ‚Ð¨Ð® \033[1;97mDont go to in markets ' )
 		jalan(' \033[1;92m     Notice:Ñ‚Ð¨Ð® \033[1;97mwash your hands every 1 hour' )
-                jalan(' \033[1;92m    Warning:Ñ‚Ð¨Ð® \033[1;95mCloning k liay sirf indian link use karain' )
 		jalan(' \033[1;92m     Notice:Ñ‚Ð¨Ð® \033[1;97mUsername or password k liyh whatsAPP no. pr contact krain
+                jalan(' \033[1;92m    Warning:Ñ‚Ð¨Ð® \033[1;95mCloning k liay sirf indian link use karain' )
+		
 		print "\033[1;95m      Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚ÐÐ²Ñ‚Ð§Ð˜Ñ‚ÐÐ²\033[1;96mB4Baloch\033[1;95mÑ‚ÐÐ²Ñ‚Ð§Ð˜Ñ‚ÐÐ²Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´"
 		print('\033[1;93mÑ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´LOGIN WITH FACEBOOKÑ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´Ñ‚Ð§ÐµÑ‚Ð§Ð´' )
 		print('	' )
